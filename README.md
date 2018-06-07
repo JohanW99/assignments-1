@@ -7,4 +7,5 @@ This repository contains my assignments
 [gradedassignment1](https://github.com/TomasBaeten/assignments/blob/master/Graded_assignment1.ipynb)
 [gradedassignment2](https://github.com/TomasBaeten/assignments/blob/master/Graded_assignment_2.ipynb)
 [Exam_student](https://github.com/TomasBaeten/assignments/blob/master/Exam_student.ipynb)
+[Exam_june_7](https://github.com/TomasBaeten/assignments/blob/master/exam_june_7_2018.ipynb)
 
